@@ -118,8 +118,8 @@ class Paddle:
     HEIGHT = 200
 
     # positions
-
     Y = 0
+    
     # constructor
     def __init__(self, y):
         self.Y = y
